@@ -13,7 +13,7 @@ Linux :
 Ouvrire le terminal(la console, le truc noire avec pleins de commande chelou),
 puis taper cette commande -->
 							  sudo apt-get install asciinema
-
+#################################################################################################################
 Mac OS :
 Ouvrire le terminal(la console, le truc noire avec pleins de commande chelou), <-- Pareille que linux pour mac
 puis taper cette commande -->
@@ -22,12 +22,12 @@ puis taper cette commande -->
 Utilisation de asciinema @ Step 2
 ##################################################################################################################
 By superSimple <3
-
+#################################################################################################################
 Linux :
 Toujours dans la console taper
 asciinema 
 puis exit terminer l'execution du programe
-
+#################################################################################################################
 Mac OS :
 Toujours dans la console taper
 asciinema rec
