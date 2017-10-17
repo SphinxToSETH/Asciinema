@@ -11,13 +11,13 @@ Installation de asciinema @ Step 1
 Linux :
 
 Ouvrire le terminal(la console, le truc noire avec pleins de commande chelou),
-puis taper cette commande -->
+puis tape cette commande -->
 							  sudo apt-get install asciinema
 #################################################################################################################
 Mac OS :
 
 Ouvrire le terminal(la console, le truc noire avec pleins de commande chelou), <-- Pareille que linux pour mac
-puis taper cette commande -->
+puis tape cette commande -->
 								brew install asciinema
 								
 Utilisation de asciinema @ Step 2
@@ -34,7 +34,7 @@ Toujours dans la console taper
 asciinema rec
 puis exit terminer l'execution du programe Y/N pour upload la video or not
 
-+++VOila vous avez un jolie lien avec un asciinema bye
++++VOila vous avez un jolie lien avec un asciinema bye (Utile pour le partage des messages d'erreurs .. )
 ###############################################################################################################
 
 
