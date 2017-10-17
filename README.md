@@ -15,6 +15,7 @@ puis taper cette commande -->
 							  sudo apt-get install asciinema
 #################################################################################################################
 Mac OS :
+
 Ouvrire le terminal(la console, le truc noire avec pleins de commande chelou), <-- Pareille que linux pour mac
 puis taper cette commande -->
 								brew install asciinema
