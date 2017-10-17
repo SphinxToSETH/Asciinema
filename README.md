@@ -29,6 +29,7 @@ asciinema
 puis exit terminer l'execution du programe
 
 Mac OS :
+Toujours dans la console taper
 asciinema rec
 puis exit terminer l'execution du programe
 
