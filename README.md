@@ -27,14 +27,14 @@ By superSimple <3
 Linux :
 Toujours dans la console taper
 asciinema 
-puis exit terminer l'execution du programe
+puis exit terminer l'execution du programe Y/N pour upload la video or not
 #################################################################################################################
 Mac OS :
 Toujours dans la console taper
 asciinema rec
-puis exit terminer l'execution du programe
+puis exit terminer l'execution du programe Y/N pour upload la video or not
 
-
++++VOila vous avez un jolie lien avec un asciinema bye
 ###############################################################################################################
 
 
